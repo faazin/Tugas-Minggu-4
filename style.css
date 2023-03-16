@@ -1,0 +1,129 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 3%;
+  margin-left: 22%;
+}
+.left {
+  width: 50%;
+}
+.gambar1 {
+  width: 98%;
+  float: right;
+}
+.right {
+  width: 47%;
+  margin-right: 5%;
+  text-align: center;
+}
+.border {
+  border: 1px solid rgb(219, 219, 219);
+  border-width: 1px;
+  padding-bottom: 28px;
+  width: 80%;
+}
+.logo {
+  width: 55%;
+  padding-top: 20px;
+  margin: 18px 20px 18px 20px;
+  cursor: pointer;
+}
+.form {
+  margin-bottom: 40px;
+}
+input {
+  margin-bottom: 6px;
+  padding: 5px;
+  width: 73%;
+  height: 20px;
+  background-color: #fafafa;
+  border-style: solid;
+  border-color: rgb(219, 219, 219);
+  border-width: 1px;
+  border-radius: 2px;
+  font-size: 10px;
+  color: rgb(38, 38, 38);
+}
+button {
+  background-color: #27a2f4;
+  width: 76%;
+  height: 30px;
+  border-radius: 8px;
+  border: none;
+  padding: 5px;
+  margin-top: 10px;
+  color: white;
+}
+.atau {
+  margin: 12%;
+}
+.atau p {
+  border-bottom: 1.5px solid;
+  border-color: #f0f0f0;
+  line-height: 0.1em;
+  color: #8a8a8a;
+  font-weight: bold;
+  font-size: 11px;
+}
+span {
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+}
+.login-fb {
+  text-decoration: none;
+  color: #385185;
+  font-size: 12px;
+}
+i {
+  margin-right: 7px;
+}
+.forget-pass {
+  color: #00376b;
+  text-decoration: none;
+  font-size: 10px;
+}
+.border-bottom {
+  margin-top: 10px;
+  border-style: solid;
+  border-color: rgb(219, 219, 219);
+  border-width: 1px;
+  padding: 5px;
+  width: 77.4%;
+}
+.cr-acc {
+  color: #0095f6;
+  text-decoration: none;
+  font-size: 11px;
+}
+.img-btn {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin-left: 8%;
+}
+.footer {
+  margin-bottom: 4%;
+  margin-top: 5%;
+}
+.footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 10px;
+  list-style: none;
+  justify-content: center;
+  gap: 13px;
+  color: #8e8e8e;
+}
+.footer a {
+  text-decoration: none;
+  color: #8e8e8e;
+}
+#bhs {
+  border: none;
+  color: #8e8e8e;
+  font-size: 10px;
+}
